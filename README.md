@@ -1,6 +1,6 @@
 # Wordlists
 
-This repository contains various wordlists for use in security testing, fuzzing ,password cracking, and other applications.
+This repository contains various wordlists for use in security testing, fuzzing, password cracking, and other applications.
 
 ## Contents
 
